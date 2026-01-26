@@ -1164,7 +1164,7 @@ function editparamValidation() {
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   
 <!--
-    Copyright 2021, 2024 5 Mode
+    Copyright 2021, 2028 NuMode
 
     This file is part of Invenktory.
 
@@ -1188,7 +1188,7 @@ function editparamValidation() {
   <link rel="shortcut icon" href="./res/favicon66.ico?v=<?php echo(time()); ?>" />
     
   <meta name="description" content="Welcome to <?php echo(APP_NAME); ?>"/>
-  <meta name="author" content="5 Mode"/> 
+  <meta name="author" content="NuMode"/> 
   <meta name="robots" content="noindex"/>
   
   <script src="./js/jquery-3.6.0.min.js" type="text/javascript"></script>
@@ -1321,7 +1321,7 @@ function editparamValidation() {
 <form id="frmHC" method="POST" action="/" target="_self" enctype="multipart/form-data" style="display:<?php echo(($hideHCSplash==="1"?"inline":"none"));?>;">
 
 <div class="header">
-   <a href="http://invenktory.5mode-foss.eu" target="_blank" style="color:white; text-decoration: none;"><img src="res/INVlogo.png" style="width:48px;">&nbsp;Invenktory</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/par7133/Invenktory" style="color:#ffffff"><span style="color:#119fe2">on</span> github</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:code@gaox.io" style="color:#ffffff"><span style="color:#119fe2">for</span> feedback</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="tel:+39-378-0812391" style="font-size:13px;background-color:#15c60b;border:2px solid #15c60b;color:white;height:27px;text-decoration:none;">&nbsp;&nbsp;get support&nbsp;&nbsp;</a>
+   <a href="http://invenktory.numode-foss.eu" target="_blank" style="color:white; text-decoration: none;"><img src="res/INVlogo.png" style="width:48px;">&nbsp;Invenktory</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/par7133/Invenktory" style="color:#ffffff"><span style="color:#119fe2">on</span> github</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:code@gaox.io" style="color:#ffffff"><span style="color:#119fe2">for</span> feedback</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="tel:+39-378-0812391" style="font-size:13px;background-color:#15c60b;border:2px solid #15c60b;color:white;height:27px;text-decoration:none;">&nbsp;&nbsp;get support&nbsp;&nbsp;</a>
 </div>
 	
 <div style="clear:both; float:left; padding:8px; width:15%; height:100%; text-align:center;">
@@ -1401,7 +1401,7 @@ function editparamValidation() {
 
 <div class="footer">
 <div id="footerCont">&nbsp;</div>
-<div id="footer"><span style="background:#FFFFFF;opacity:1.0;margin-right:10px;">&nbsp;&nbsp;A <a href="http://5mode.com">5 Mode</a> project and <a href="http://demo.5mode.com">WYSIWYG</a> system. Some rights reserved.</span></div>	
+<div id="footer"><span style="background:#FFFFFF;opacity:1.0;margin-right:10px;">&nbsp;&nbsp;A <a href="http://numode.eu">NuMode</a> project and <a href="http://demo.numode.eu">WYSIWYG</a> system. Some rights reserved.</span></div>	
 </div>
 
 <input type="hidden" name="pwd" value="<?php echo($curPath); ?>" style="color:black">
